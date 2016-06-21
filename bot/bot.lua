@@ -255,9 +255,9 @@ function create_config( )
       "welcome",
       "whitelist",
       "azan",
-      "upredis"
+      "upredis",
       },
-    sudo_users = {our_id},
+    sudo_users = {10012023,0},
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'}
   }
