@@ -11,7 +11,7 @@
 do
 
 function run(msg, matches)
-  return '❣https://github.com/ahm3d97/Ahmed ALobaidy.git \n❣   #المطور :@A7mEd_B98 \n'
+  return 'git clone https://github.com/alobaidy98/ahmed.AB.git'
 end
 
 return {
