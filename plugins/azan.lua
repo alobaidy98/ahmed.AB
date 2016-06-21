@@ -3,8 +3,8 @@
 #ـــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــ
 #:((
 # For More Information ....! 
-# Developer : Aziz < @TH3_GHOST > 
-# our channel: @DevPointTeam
+# Developer : Aziz < @A7mEd_B98 > 
+# our channel: @DeV_ahmed_98
 # Version: 1.1
 #:))
 #ــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــ
@@ -101,4 +101,4 @@ return {
 
     run =DevPoint }
 end
---post by : channel : @DevPointCH
+--post by : channel : @Dev-ahmed_98
