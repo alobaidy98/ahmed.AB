@@ -253,7 +253,9 @@ function create_config( )
       "textphoto",
       "voice",
       "welcome",
-      "whitelist"
+      "whitelist",
+      "azan",
+      "upredis"
       },
     sudo_users = {our_id},
     disabled_channels = {},
